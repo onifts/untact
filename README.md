@@ -5,7 +5,7 @@
 
 # service  
 - ott (over the top)
-  - 웨이브(sk), 넷플릭스 
+  - 웨이브(sk), seezn(kt), 넷플릭스 
 - 종료단체 
 - 이커머스 
 - 이러닝 
