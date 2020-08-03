@@ -1,5 +1,8 @@
 # untact
 
+# idea 
+- 강의 컨텐츠 메이커 
+
 # company 
 - http://www.iotspace.co.kr/
 
