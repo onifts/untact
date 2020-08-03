@@ -2,6 +2,7 @@
 
 # idea 
 - 강의 컨텐츠 메이커 
+- 원격 컨트롤 object, 대상 : 회사내 로봇, 매장 방문 서비스, 더 뷰 서비스  
 
 # company 
 - http://www.iotspace.co.kr/
