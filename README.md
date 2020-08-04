@@ -8,7 +8,7 @@
 - http://www.iotspace.co.kr/
 - 딥마인드 https://deepmind.com/
 - 뷰노 https://vuno.co/
-- 루닛 https://lunit.recruiter.co.kr/
+- 루닛 https://www.lunit.io/
 
 # service  
 - ott (over the top)
