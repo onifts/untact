@@ -7,6 +7,7 @@
 # company 
 - http://www.iotspace.co.kr/
 - 딥마인드 https://deepmind.com/
+- 뷰노 https://vuno.co/
 
 # service  
 - ott (over the top)
