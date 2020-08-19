@@ -4,6 +4,13 @@
 - 강의 컨텐츠 메이커 
 - 원격 컨트롤 object, 대상 : 회사내 로봇, 매장 방문 서비스, 더 뷰 서비스  
 
+- https://wizlive.com/
+
+# editor 
+- https://codemirror.net/
+- https://ace.c9.io/ 
+- https://microsoft.github.io/monaco-editor/
+
 # company 
 - http://www.iotspace.co.kr/
 - 딥마인드 https://deepmind.com/
