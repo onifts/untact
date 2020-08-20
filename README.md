@@ -5,7 +5,8 @@
 - 원격 컨트롤 object, 대상 : 회사내 로봇, 매장 방문 서비스, 더 뷰 서비스  
 
 # coding school 
-- https://wizlive.com/
+- 위즈라이브 https://wizlive.com/
+- 디랩 https://www.daddyslab.com/
 
 # editor 
 - https://codemirror.net/
